@@ -1,0 +1,15 @@
+{
+    "name": "adduc/error_handler",
+    "description": "Simple error handler",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "John Long",
+            "email": "a@88k.us"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "classmap": [ "src/" ]
+    }
+}
